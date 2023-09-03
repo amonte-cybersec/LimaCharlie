@@ -1,8 +1,14 @@
 Step 1: Setting up My Virtual Environment**
-- I began by downloading and installing VMware Workstation from the official website. I opted for the free trial version as recommended for specific features in the guide.
+
 - I acquired a Windows virtual machine (VM) from Microsoft, ensuring it was compatible with VMware Workstation.
-- To create a controlled environment, I downloaded the Ubuntu Server 22.04.1 installer ISO with the specified specifications mentioned in the guide.
+- To create a controlled environment, I downloaded the Ubuntu Server 22.04.1 installer ISO with from the VM Ware Hypervisor.
 - During the installation of Ubuntu in VMware Workstation, I chose to set a static IP address for the Ubuntu VM, preventing it from changing throughout my lab activities. I also took note of the gateway IP and subnet details. Additionally, I copied the "Address" from the previously assigned DHCP settings.
+
+<p align="center">
+Screenshot of Victim (Windows VM) and Attacker (Linux VM) : <br/>
+
+<img src="https://imgur.com/Amn3cY7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/zjAlFLV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> 
 
 **Step 2: Disabling Microsoft Defender on My Windows VM**
 - I disabled Tamper Protection and other options via Windows Security settings.
