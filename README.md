@@ -35,6 +35,10 @@ Screenshot of Victim (Windows VM) and Attacker (Linux VM) : <br/>
 - From the Linux VM, I ran a Python command to transfer the C2 payload.
 - In the Windows VM, I launched an Administrative PowerShell console and downloaded the C2 payload using the Linux VM's IP address.
 
+<p align="center">
+Screenshot of Payload successfully transferred: <br/>
+<img src="https://imgur.com/ylXHumD.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
+
 **Step 8: Conducting Hash Analysis**
 - For hash analysis of a suspicious file, I turned to VirusTotal, a widely used online threat intelligence platform.
 - I queried VirusTotal to gather any associated information regarding the hash. Surprisingly, no results were returned, suggesting that the file might have been custom-crafted to evade traditional antivirus detection.
