@@ -8,7 +8,7 @@ Step 1: Setting up My Virtual Environment
 Screenshot of Victim (Windows VM) and Attacker (Linux VM) : <br/>
 
 <img src="https://imgur.com/Amn3cY7.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/zjAlFLV.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/Q69IE2U.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
 
 **Step 2: Disabling Microsoft Defender on My Windows VM**
 - I disabled Tamper Protection and other options via Windows Security settings.
