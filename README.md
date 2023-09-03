@@ -43,7 +43,8 @@ Screenshot of Victim (Windows VM) and Attacker (Linux VM) : <br/>
 - Within LimaCharlie, I observed that a threat had been detected with my custom detection signature.
 - I expanded the detection entry to view the raw event and accessed the event timeline where the event occurred.
 
-<img src="https://imgur.com/l4nza7u.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/e3GLEPN.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
+ 
 
 **Step 10: Performing Adversarial Actions**
 - To simulate adversarial actions, I conducted activities like dumping lsass.exe, a common tactic used by adversaries to steal credentials on a system.
