@@ -1,4 +1,4 @@
-Step 1: Setting up My Virtual Environment**
+Step 1: Setting up My Virtual Environment
 
 - I acquired a Windows virtual machine (VM) from Microsoft, ensuring it was compatible with VMware Workstation.
 - To create a controlled environment, I downloaded the Ubuntu Server 22.04.1 installer ISO with from the VM Ware Hypervisor.
