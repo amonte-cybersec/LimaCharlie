@@ -43,6 +43,8 @@ Screenshot of Victim (Windows VM) and Attacker (Linux VM) : <br/>
 - Within LimaCharlie, I observed that a threat had been detected with my custom detection signature.
 - I expanded the detection entry to view the raw event and accessed the event timeline where the event occurred.
 
+<p align="center">
+Screenshot of Detections I created: <br/>
 <img src="https://imgur.com/e3GLEPN.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
  
 
