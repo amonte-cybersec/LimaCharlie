@@ -1,7 +1,7 @@
 Step 1: Setting up My Virtual Environment
 
 - I acquired a Windows virtual machine (VM) from Microsoft, ensuring it was compatible with VMware Workstation.
-- To create a controlled environment, I downloaded the Ubuntu Server 22.04.1 installer ISO with from the VM Ware Hypervisor.
+- To create a controlled environment, I downloaded the Ubuntu Server 22.04.1 installer ISO from the VM Ware Hypervisor.
 - During the installation of Ubuntu in VMware Workstation, I chose to set a static IP address for the Ubuntu VM, preventing it from changing throughout my lab activities. I also took note of the gateway IP and subnet details. Additionally, I copied the "Address" from the previously assigned DHCP settings.
 
 <p align="center">
