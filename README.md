@@ -4,7 +4,12 @@
 - Download the Ubuntu Server 22.04.1 installer ISO from the VMWare Hypervisor website.
 - During the Ubuntu installation in VMware Workstation, choose to set a static IP address for the Ubuntu VM, ensuring it remains constant throughout lab activities.
 - Take note of the gateway IP address and subnet details.
-- Capture a screenshot of the Victim (Windows VM) and Attacker (Linux VM) VMs for documentation.
+
+
+ <p align="center">
+  Screenshot of Victim (Windows VM) and Attacker (Linux VM) : <br/>
+<img src="https://imgur.com/Amn3cY7.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://imgur.com/Q69IE2U.png" height="70%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Section 2: Windows VM Configuration</h2> 
 
