@@ -40,7 +40,11 @@
 - From the Linux VM, use a Python command to transfer the C2 payload to the Windows VM.
 - In the Windows VM, launch an Administrative PowerShell console and download the C2 payload using the Linux VM's IP address.
 
-<h2>SSection 7: Threat Analysis</h2> 
+<p align="center">
+Screenshot of Payload successfully transferred: <br/>
+<img src="https://imgur.com/ylXHumD.png" height="70%" width="80%" alt="Disk Sanitization Steps"/> 
+
+<h2>Section 7: Threat Analysis</h2> 
 
 - Use VirusTotal, a widely used online threat intelligence platform, for hash analysis of a suspicious file.
 - Query VirusTotal to gather any associated information regarding the hash, which surprisingly returns no results, suggesting the file may have been
