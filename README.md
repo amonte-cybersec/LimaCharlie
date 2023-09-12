@@ -1,3 +1,7 @@
+<h2>Description</h2> 
+
+This project involves setting up an Adversarial Security Lab comprising a Windows virtual machine (VM) and an Ubuntu Server VM within VMware Workstation. The Windows VM is fine-tuned for security tasks, including disabling Microsoft Defender, while the Ubuntu VM is configured with a static IP address. The lab is fortified with essential security tools, such as Sysmon and LimaCharlie, for comprehensive monitoring and threat detection. Additionally, a Linux VM is equipped with the Sliver Command & Control framework for adversarial simulation. The project encompasses various phases, from initial setup to threat analysis, exploring LimaCharlie's EDR capabilities, and performing adversarial actions like credential access attempts, all documented with screenshots for comprehensive security testing and analysis.
+
 <h2>Section 1: Initial Setup</h2> 
 
 - Acquire a compatible Windows virtual machine (VM) from Microsoft to ensure compatibility with VMware Workstation.
