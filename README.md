@@ -50,9 +50,12 @@
 
 - Within LimaCharlie, observe the detection of a threat with a custom detection signature.
 - Expand the detection entry to view the raw event and access the event timeline where the event occurred.
-- Capture screenshots of detections you've created for documentation.
 
-<h2>Section 9: Performing Adversarial Actions</h2> 
+<p align="center">
+Screenshot of Detections I created: <br/>
+<img src="https://imgur.com/e3GLEPN.png" height="70%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <h2>Section 9: Performing Adversarial Actions</h2> 
 
 - Simulate adversarial actions by conducting activities such as dumping lsass.exe, a common tactic used by adversaries to steal credentials on a system.
 - Filter the LimaCharlie timeline for "SENSITIVE_PROCESS_ACCESS" events, allowing you to identify credential access attempts.
